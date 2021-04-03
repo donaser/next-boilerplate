@@ -20,7 +20,9 @@ if you are using yarn
 `commitizen init cz-conventional-changelog --yarn --dev --exact`.
 
  <br />
-Dont manual commit like `git commit -m "add feature C ..."`. just `git cz` and following the instruction until finish.
+
+Dont do manual commit like `git commit -m "Add feature C"` its disgusting!.
+just `git cz` and following the instruction until finish.
 
  <br />
  <br />
